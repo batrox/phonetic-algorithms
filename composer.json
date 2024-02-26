@@ -24,7 +24,7 @@
   },
   "require": {
     "php": ">=8.0.0",
-    "batrox/portable-utf8": "~7.0",
+    "batrox/portable-utf8": "~1.0",
     "voku/stop-words": "~2.0"
   },
   "require-dev": {
