@@ -1,5 +1,5 @@
 {
-  "name": "voku/phonetic-algorithms",
+  "name": "batrox/phonetic-algorithms",
   "description": "Phonetic-Algorithms for fuzzy searching | PHP",
   "keywords": [
     "phonetic",
@@ -23,8 +23,8 @@
     }
   },
   "require": {
-    "php": ">=7.0.0",
-    "voku/portable-utf8": "~6.0",
+    "php": ">=8.0.0",
+    "batrox/portable-utf8": "~7.0",
     "voku/stop-words": "~2.0"
   },
   "require-dev": {
